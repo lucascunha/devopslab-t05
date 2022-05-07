@@ -1,4 +1,2 @@
 # DevOps Hands On
-Aplicação Simples em Python/Flask com teste usando Unittest
-
-By Lucas Cunha
+Palestra no DevOps Experience
